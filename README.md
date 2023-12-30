@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 Passionate about DevOps practices and automating cloud infrastructure. Currently Working On Streamlined Django Application Deployment on AWS Cloud.
 
 ## 🌐 Socials:

@@ -1,7 +1,7 @@
 # 💫 About Me:
 Automating django app deployment to AWS
 
-![DevOps](https://i.imgur.com/YourImageID.gif =400x)
+![DevOps](https://github.com/MadhoshYagnik/MadhoshYagnik/blob/main/1_DluPjzT_eTUFdzHCI7JBZA.gif =400x)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhosh-yagnik-461123194) 

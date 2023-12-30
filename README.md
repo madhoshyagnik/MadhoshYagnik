@@ -1,5 +1,6 @@
 # 💫 About Me:
 Automating django app deployment to AWS
+
 ![DevOps](https://i.imgur.com/YourImageID.gif =400x)
 
 ## 🌐 Socials:

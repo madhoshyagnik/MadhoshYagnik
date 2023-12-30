@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhosh Yagnik</h1>
 <h3 align="center">DevOps Engineer</h3>
-
+![hippo][https://miro.medium.com/v2/resize:fit:1100/format:webp/1*DluPjzT_eTUFdzHCI7JBZA.gif]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhoshyagnik&label=Profile%20views&color=0e75b6&style=flat" alt="madhoshyagnik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhoshyagnik" alt="madhoshyagnik" /></a> </p>

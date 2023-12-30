@@ -15,7 +15,7 @@ Passionate about DevOps practices and automating cloud infrastructure. Currently
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MadhoshYagnik&theme=buddhism&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Today's Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhosh Yagnik</h1>
 <h3 align="center">DevOps Engineer</h3>
-![Alt Text](https://drive.google.com/file/d/1z-TS30-wC04jXfc9FOkKnxGjWeptpUCB/view?usp=sharing)
+![DevOps](https://github.com/MadhoshYagnik/MadhoshYagnik/blob/main/1_DluPjzT_eTUFdzHCI7JBZA.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhoshyagnik&label=Profile%20views&color=0e75b6&style=flat" alt="madhoshyagnik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhoshyagnik" alt="madhoshyagnik" /></a> </p>

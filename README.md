@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-Passionate about DevOps practices and automating cloud infrastructure. Currently Working On Streamlined Django Application Deployment on AWS Cloud.Sometimes,I make video games as well; try one today at: https://madhoshyagnik.github.io/VillKraft/
+Passionate about DevOps practices and automating cloud infrastructure. Currently working on dockerizing a flask application which I plan to run inside a minikube cluster. Sometimes,I make video games as well; Presenting VillKraft, a video game ![image](https://github.com/user-attachments/assets/678d7682-60ab-4157-b286-aeec61b88deb) I made for my University project; try it today at: https://madhoshyagnik.github.io/VillKraft/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhosh-yagnik-461123194) 

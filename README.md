@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-Passionate about DevOps practices and automating cloud infrastructure. Currently working on dockerizing a flask application which I plan to run inside a minikube cluster. Sometimes,I make video games as well; Presenting VillKraft, a video game 🎮 I made for my University project; try it today at: https://madhoshyagnik.github.io/VillKraft/
+Passionate about DevOps practices and automating cloud infrastructure. Currently working on dockerizing a flask application which I plan to run inside a minikube cluster. Sometimes,I make video games as well; Presenting VillKraft 🎮 🕹️, a video game that I made for my University project; try it today at: https://madhoshyagnik.github.io/VillKraft/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/madhosh-yagnik-461123194) 
